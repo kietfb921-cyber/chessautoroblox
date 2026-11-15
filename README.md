@@ -1,6 +1,6 @@
 # chessautoroblox
 
-Roblox chess auto-play script (obfuscated build).
+Roblox chess auto-play script (source, không obfuscate).
 
 ## Dùng
 
